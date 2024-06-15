@@ -51,17 +51,17 @@
 	        <div class="col-md-4 col-md-offset-2">
 	            <div class="box-servizi">
 	            	<h4>Prodotti</h4>
-	            	<a href="javascript:;">Scaffalature cantilever</a>
-	            	<a href="javascript:;">Scaffalature ad incastro</a>
-	            	<a href="javascript:;">Soppalchi</a>
+	            	<a href="scaffalature-cantilever.html">Scaffalature cantilever</a>
+	            	<a href="scaffalature-incastro.html">Scaffalature ad incastro</a>
+	            	<a href="soppalchi.html">Soppalchi</a>
 	            </div>
 	        </div>
 	        <div class="col-md-4">
 	            <div class="box-servizi">
 	            	<h4>Pronta consegna</h4>
-	            	<a href="javascript:;">Cantilever nuovo</a>
-	            	<a href="javascript:;">Porta pallet nuovo</a>
-	            	<a href="javascript:;">Impianti d'occasione</a>
+	            	<a href="cantilever-nuovo.html">Cantilever nuovo</a>
+	            	<a href="portapallet-nuovo.html">Porta pallet nuovo</a>
+	            	<a href="impianti-occasione.html">Impianti d'occasione</a>
 	            </div>
 	        </div>
 	    </div>

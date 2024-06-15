@@ -29,8 +29,8 @@
     </div>
     <div class="row gallery">
         <div class="col-md-4 col-xs-6">
-            <a href="images/cantilever-nuovo.jpg">
-                <div class="image" style="background-image:url('images/cantilever-nuovo.jpg');"></div>
+            <a href="images/portapallet-nuovo.jpg">
+                <div class="image" style="background-image:url('images/portapallet-nuovo.jpg');"></div>
             </a>
         </div>
     </div>
